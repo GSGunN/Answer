@@ -1,6 +1,6 @@
 // กำหนดค่าที่จะนำไปทดสอบที่ตัวแปร n และ m
-var n = "";
-var m = "";
+var n = "34";
+var m = "1,000,000";
 
 console.log(calculateSum(n, m));
 
